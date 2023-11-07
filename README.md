@@ -1,3 +1,5 @@
+My discord is namoklelv (old version of discord is namoklelv#9743)
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
